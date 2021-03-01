@@ -1,0 +1,11 @@
+* git push origin master (enviar para o github)
+* git status (ver configurações)
+* git remote -v( lista a Url github)
+* git remote add origin URL github
+* git config --list
+* git config --global use.nickname "nome" (modificar o nichname)
+* git commit -m "comentario"
+* git add * (coloca no stage)
+* echo > readme.md (criar arquivo)
+* git pull origin master (puxar o conteudo do github)
+
